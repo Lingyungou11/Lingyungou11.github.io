@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Pin ZHANG"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Newton International Fellow"
+  location         : "University of Cambridge"
+  email            : "dr.pin.zhang@gmail.com"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_4-M1mYAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Pin-Zhang-3?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Pin-Zhang-3?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
