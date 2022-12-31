@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "2018"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Chen RP, Lin XT, Kang X, Zhong ZQ, Liu Y, Zhang P, 2018, Deformation and stress characteristics of existing twin tunnels induced by close-distance EPBS under-crossing. Tunnelling and Underground Space Technology, 82, 468-481'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
