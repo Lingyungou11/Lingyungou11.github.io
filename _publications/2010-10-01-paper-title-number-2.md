@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "2019"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '2. Chen RP, Zhang P, Wu HN, Wang ZT, 2019. Prediction of shield tunneling-induced ground settlement using machine learning techniques. Frontiers of structural and Civil Engineering. 13(6), 1363–1378.'
 date: 2010-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://link.springer.com/article/10.1007/s11709-019-0561-3'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
