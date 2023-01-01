@@ -1,9 +1,9 @@
 ---
 title: "Journal Papers"
-excerpt: '#Supervised, *Corresponding<br />
+excerpt: '# Supervised, * Corresponding<br />
 **2023:**<br />
 33.	**Zhang P**, Yin ZY, Sheil B., 2023. A physics-informed data-driven approach for consolidation analysis. Géotechnique, [Link](https://doi.org/10.1680/jgeot.22.00046)<br />
-32.	He GF#, **Zhang P**<sup>*</sup>, Yin ZY, Jin YF, Yang Y, 2023. Multi-fidelity data-driven modelling of rate-dependent behaviour of soft clays. *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*, [Link](https://doi.org/10.1080/17499518.2022.2149815)<br />
+32.	He GF<sup>#</sup>, **Zhang P**<sup>*</sup>, Yin ZY, Jin YF, Yang Y, 2023. Multi-fidelity data-driven modelling of rate-dependent behaviour of soft clays. *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*, [Link](https://doi.org/10.1080/17499518.2022.2149815)<br />
 <br />
 **2022:**<br />
 31.	**Zhang P**, Yin ZY, Jin YF, Sheil B., 2022. Physics-constrained hierarchical data-driven modelling framework for complex path‐dependent behaviour of soils. *International Journal for Numerical and Analytical Methods in Geomechanics*, 46(10), 1831-1850<br />
