@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022-11-Technical Forum
 venue: "Hong Kong, China"
-date: 2014-02-01
+date: 2022-11
 location: "London, UK"
 ---
 
