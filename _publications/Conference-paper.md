@@ -1,4 +1,4 @@
 ---
-title: "Conference paper"
+title: "Conference papers"
 excerpt: ''
 ---
