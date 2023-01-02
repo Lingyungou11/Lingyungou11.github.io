@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pin ZHANG"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
