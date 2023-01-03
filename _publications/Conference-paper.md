@@ -1,4 +1,0 @@
----
-title: "Conference papers"
-excerpt: ''
----
