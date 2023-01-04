@@ -59,4 +59,6 @@ author_profile: true
 1. Chen RP, Lin XT, Kang X, Zhong ZQ, Liu Y, **Zhang P**, 2018, Deformation and stress characteristics of existing twin tunnels induced by close-distance EPBS under-crossing. *Tunnelling and Underground Space Technology*, 82, 468-481
 
 ## Conference Papers
-1. 
+1. **Zhang P**, Sheil B, Yin ZY, 2023, Physics-informed data-driven modelling of caisson foundations. *The 4th International Symposium on Machine Learning & Big Data in Geoscience*, Ireland (Submitted)
+2. **Zhang P**, Yin ZY, 2020, A LSTM surrogate modelling approach for caisson foundations, *Proceedings of the 24th Annual Conference of HKSTAM 2020, the 16th Shanghai – Hong Kong Forum on Mechanics and Its Application*, Hong Kong
+3. **Zhang P**, Liu Y, Kang X, Zhong K, Chen RP, 2018. Application of horizontal MJS piles in tunneling beneath existing twin tunnels. *Proceedings of the 2nd International Symposium on Asia Urban GeoEngineering*, Changsha, Hunan, China, 323-331
