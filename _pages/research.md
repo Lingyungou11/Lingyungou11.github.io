@@ -12,6 +12,7 @@ author_profile: true
 #![](../images/deepxde.png)
 ## Identification of particulate characterizations
 - [Recontruction of particles from computed-tomography(CT) images](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GT.1943-5606.0002790)
+![](../images/particle_018_040.gif)
 - [Machine learning assisted quantification of particle size and morphology](https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3296)
 
 ## Modelling of complex soil behaviours
