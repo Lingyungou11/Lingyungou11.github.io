@@ -25,3 +25,15 @@ author_profile: true
   - [Urban Water Journal (Taylor & Francis Online)](https://www.tandfonline.com/journals/nurw20?cookieSet=1)
   
 - Other domains:
+
+  - [Advanced Engineering Informatics (Elsevier)](https://www.sciencedirect.com/journal/advanced-engineering-informatics)
+  - [Advances in Manufacturing (Springer)](https://www.sciencedirect.com/journal/engineering-structures)
+  - [Computers and Electronics in Agriculture (Elsevier)](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)
+  - [Digital Signal Processing (Elsevier)](https://www.sciencedirect.com/journal/digital-signal-processing)
+  - [Heliyon (Cell Press)](https://www.cell.com/heliyon/home)
+  - [IEEE Transactions on Intelligent Transportation Systems (IEEE Xplore)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
+  - [IEEE ACCESS (IEEE Xplore)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
+  - [Information Sciences (Elsevier)](https://www.sciencedirect.com/journal/information-sciences)
+  - [Journal of Energy Storage (Elsevier)](https://www.sciencedirect.com/journal/journal-of-energy-storage)
+  - [Science China Technological Sciences (Springer)](https://www.springer.com/journal/11431)
+  - [Scientific Reports (Nature Portfolio)](https://www.nature.com/srep/)
