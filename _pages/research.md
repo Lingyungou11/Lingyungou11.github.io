@@ -9,10 +9,13 @@ author_profile: true
 - [Prior information based neural network (PiNet)](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00046)
 - [Multi-fidelity residual neural network (MRNN)](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094)
 
-#![](../images/deepxde.png)
 ## Identification of particulate characterizations
 - [Recontruction of particles from computed-tomography(CT) images](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GT.1943-5606.0002790)
-![](../images/CT.bmp)![](../images/PT.gif)
+
+CT image           |  Reconstruction
+:-------------------------:|:-------------------------:
+![](../images/CT.bmp)  |  ![](../images/PT.gif)
+
 - [Machine learning assisted quantification of particle size and morphology](https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3296)
 
 ## Modelling of complex soil behaviours
