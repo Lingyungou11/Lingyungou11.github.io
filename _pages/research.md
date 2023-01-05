@@ -12,12 +12,10 @@ author_profile: true
 
 ## Identification of particulate characterizations
 - [Recontruction of particles from computed-tomography(CT) images](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GT.1943-5606.0002790)
-
+- [Machine learning assisted quantification of particle size and morphology](https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3296)
 CT image           |  Reconstruction
 :-------------------------:|:-------------------------:
 ![](../images/CT.bmp)  |  ![](../images/PT.gif)
-
-- [Machine learning assisted quantification of particle size and morphology](https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3296)
 
 ## Modelling of complex soil behaviours
 - Anisotropy, path-dependent and rate-dependent
