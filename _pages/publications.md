@@ -19,13 +19,13 @@ author_profile: true
 
 +Supervised, #Corresponding
 
-33. **Zhang P**, Yin ZY, Sheil B., 2023. A physics-informed data-driven approach for consolidation analysis. *Géotechnique*
-32. He GF+, **Zhang P#**, Yin ZY, Jin YF, Yang Y, 2023. Multi-fidelity data-driven modelling of rate-dependent behaviour of soft clays. *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*
+33. **Zhang P**, Yin ZY, Sheil B., 2023. [A physics-informed data-driven approach for consolidation analysis](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00046). *Géotechnique*
+32. He GF+, **Zhang P#**, Yin ZY, Jin YF, Yang Y, 2023. [Multi-fidelity data-driven modelling of rate-dependent behaviour of soft clays](https://www.tandfonline.com/doi/full/10.1080/17499518.2022.2149815?src=). *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*
 
-31. **Zhang P**, Yin ZY, Jin YF, Sheil B., 2022. Physics-constrained hierarchical data-driven modelling framework for complex path‐dependent behaviour of soils. *International Journal for Numerical and Analytical Methods in Geomechanics*, 46(10), 1831-1850
-30. **Zhang P**, Yin ZY, Jin YF, 2022. Bayesian neural network-based uncertainty modelling: application to soil compressibility and undrained shear strength prediction. *Canadian Geotechnical Journal*, 59, 546-557
-29. **Zhang P**, Yin ZY, Chen Q, 2022. Image-based 3D reconstruction of granular grains via hybrid algorithm and level set with convolution kernel. *Journal of Geotechnical and Geoenvironmental Engineering-ASCE*, 148(5), 04022021
-28. **Zhang P**, Yin ZY, Jin YF, Yang, J, Sheil B., 2022. Physics-informed multi-fidelity residual neural networks for hydromechanical modelling of granular soils and foundation considering internal erosion. *Journal of Engineering Mechanics-ASCE*, 148(4), 04022015 (**Editor’s Choice**)
+31. **Zhang P**, Yin ZY, Jin YF, Sheil B., 2022. [Physics-constrained hierarchical data-driven modelling framework for complex path‐dependent behaviour of soils](https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3370). *International Journal for Numerical and Analytical Methods in Geomechanics*, 46(10), 1831-1850
+30. **Zhang P**, Yin ZY, Jin YF, 2022. [Bayesian neural network-based uncertainty modelling: application to soil compressibility and undrained shear strength prediction](https://cdnsciencepub.com/doi/full/10.1139/cgj-2020-0751). *Canadian Geotechnical Journal*, 59, 546-557
+29. **Zhang P**, Yin ZY, Chen Q, 2022. [Image-based 3D reconstruction of granular grains via hybrid algorithm and level set with convolution kernel](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GT.1943-5606.0002790). *Journal of Geotechnical and Geoenvironmental Engineering-ASCE*, 148(5), 04022021
+28. **Zhang P**, Yin ZY, Jin YF, Yang, J, Sheil B., 2022. [Physics-informed multi-fidelity residual neural networks for hydromechanical modelling of granular soils and foundation considering internal erosion](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094). *Journal of Engineering Mechanics-ASCE*, 148(4), 04022015 (**Editor’s Choice**)
 27. **Zhang P**, Yin ZY, Jin YF. 2022. Three-dimensional quantitative analysis on granular particle shape using convolutional neural network. *International Journal for Numerical and Analytical Methods in Geomechanics*, 46(1), 187-204
 26. **Zhang P**, Yin ZY, Jin YF, 2022. Machine learning-based modelling of soil properties for geotechnical design: review, tool development and comparison. *Archives of Computational Methods in Engineering*, 29, 1229-1245
 25. **Zhang P**, Yin ZY, Jin YF, Liu XF. 2022. Modelling the mechanical behaviour of soils using machine learning algorithms with explicit formulations. *Acta Geotechnica*, 17, 1403-1422
