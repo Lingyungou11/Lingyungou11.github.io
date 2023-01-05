@@ -18,6 +18,3 @@ author_profile: true
 - 2019: Outstanding Graduates, Hunan Province
 - 2017 – 2018: Outstanding Postgraduate Student, Hunan University
 - 2017-11: National Scholarship, Ministry of Education of the People’s Republic of China
-#- 2016-06: Recommended Exam-Free Postgraduate (First-class honour), Hefei University of Technology
-#- 2013 – 2016: University Scholarship, Hefei University of Technology
-
