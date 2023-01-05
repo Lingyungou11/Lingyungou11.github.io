@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Development of data-driven theory and methodology
+# Multi-fidelity residual neural network (MRNN)
+- Prior information based neural network (PiNet)
 
 #![](../images/deepxde.png)
 ## Identification of particulate characterizations
