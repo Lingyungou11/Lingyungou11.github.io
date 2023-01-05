@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+- 2022-09: Royal Society-Newton International Fellow
+- 2022-08: JSPS Postdoctoral Fellow
 - 2022-04: Editor’s Choice, Journal of Engineering Mechanics (ASCE)
 - 2022-01-Date: Most Cited Articles, Engineering Geology (Elsevier)
 - 2021-12: Most Cited Articles in 2020-2021, Tunnelling and Underground Space Technology (Elsevier)
