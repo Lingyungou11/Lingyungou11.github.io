@@ -24,8 +24,6 @@ CT image           |  Reconstruction
 
 ## Applications of data-driven models to engineering practice
 
-Dike model           |  Temporal prediction
-:-------------------------:|:-------------------------:
-![](../images/Dike.jpg)  |  ![](../images/contour.mp4)
+![](../images/Dike-result.gif)
 
 ## Machine learning assisted surrogate modelling
