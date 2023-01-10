@@ -27,4 +27,4 @@ CT image           |  Reconstruction
 - [Physics-constrained data-driven surrogate model](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094)
 ![](../images/Dike-result.gif)
 
-## Machine learning assisted surrogate modelling
+## Digital twin
