@@ -26,6 +26,6 @@ CT image           |  Reconstruction
 
 Dike model           |  Temporal prediction
 :-------------------------:|:-------------------------:
-![](../images/Dike model.jpg)  |  ![](../images/contour.mp4)
+![](../images/Dike.jpg)  |  ![](../images/contour.mp4)
 
 ## Machine learning assisted surrogate modelling
