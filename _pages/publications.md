@@ -54,7 +54,7 @@ author_profile: true
 5. **Zhang P**, Chen RP, Wu HN, 2019. [Real-time analysis and regulation of EPB shield steering using random forest](https://www.sciencedirect.com/science/article/pii/S0926580518311488). *Automation in Construction*. 106, 101860
 4. **Zhang P**, 2019. [A novel feature selection method based on global sensitivity analysis with application in machine learning-based prediction model](https://www.sciencedirect.com/science/article/pii/S1568494619306404). *Applied Soft Computing*. 85, 105859
 3. Chen RP, **Zhang P#**, Kang X, Zhong ZQ, Liu Y, Wu HN, 2019. [Prediction of maximum surface settlement caused by EPB shield tunneling with ANN methods](https://www.sciencedirect.com/science/article/pii/S0038080619300058). *Soils and Foundations*. 59, 284–295 (**ESI Highly Cited Paper**)
-2. Chen RP, **Zhang P#**, Wu HN, Wang ZT, 2019. [Prediction of shield tunneling-induced ground settlement using machine learning techniques](https://link.springer.com/article/10.1007/s11709-019-0561-3). *Frontiers of structural and Civil Engineering*. 13(6), 1363–1378 (☆Editor’s Choice)
+2. Chen RP, **Zhang P#**, Wu HN, Wang ZT, 2019. [Prediction of shield tunneling-induced ground settlement using machine learning techniques](https://link.springer.com/article/10.1007/s11709-019-0561-3). *Frontiers of structural and Civil Engineering*. 13(6), 1363–1378 (**Editor’s Choice**)
 
 1. Chen RP, Lin XT, Kang X, Zhong ZQ, Liu Y, **Zhang P**, 2018, [Deformation and stress characteristics of existing twin tunnels induced by close-distance EPBS under-crossing](https://www.sciencedirect.com/science/article/pii/S0886779818302864). *Tunnelling and Underground Space Technology*, 82, 468-481
 
