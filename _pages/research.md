@@ -26,6 +26,7 @@ CT image           |  Reconstruction
 
 ## Applications of data-driven models to engineering practice
 - [Finite element modelling with data-driven constitutive model](https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.3370)
+![](../images/DD-FEM.JPG)
 - [Physics-constrained data-driven surrogate model](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094)
 ![](../images/Dike-result.gif)
 
