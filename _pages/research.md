@@ -22,7 +22,6 @@ CT image           |  Reconstruction
 ## Modelling of complex soil behaviours
 - [Extract mechanical behaviours from images](https://www.sciencedirect.com/science/article/pii/S004578252100195X)
 <img src="../images/From-image-to-mechanical.gif" width="80%" height="80%">
-![](../images/From-image-to-mechanical.gif)
 - Anisotropy, path-dependent and rate-dependent
 
 ## Applications of data-driven models to engineering practice
