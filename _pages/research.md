@@ -8,8 +8,8 @@ author_profile: true
 ## Development of data-driven modelling theory and methodology
 - [Prior information based neural network (PiNet)](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00046): make more generalisable
 - [Multi-fidelity residual neural network (MRNN)](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094): adapt to sparse data
-- [Bayesian neural network](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2020-0751): uncertainty quantification
 ![](../images/MRNN.JPG)
+- [Bayesian neural network](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2020-0751): uncertainty quantification
 
 ## Identification of particulate characterizations
 - [Recontruction of particles from computed-tomography(CT) images](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GT.1943-5606.0002790)
