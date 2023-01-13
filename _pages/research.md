@@ -8,7 +8,7 @@ author_profile: true
 ## Development of data-driven modelling theory and methodology
 - [Prior information based neural network (PiNet)](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00046): make more generalisable
 - [Multi-fidelity residual neural network (MRNN)](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094): adapt to sparse data
-![](../images/MRNN.JPG)
+<img src="../images/MRNN.JPG" width="80%" height="80%">
 - [Bayesian neural network](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2020-0751): uncertainty quantification
 
 ## Identification of particulate characterizations
@@ -21,6 +21,7 @@ CT image           |  Reconstruction
 
 ## Modelling of complex soil behaviours
 - [Extract mechanical behaviours from images](https://www.sciencedirect.com/science/article/pii/S004578252100195X)
+<img src="../images/From-image-to-mechanical.gif" width="80%" height="80%">
 ![](../images/From-image-to-mechanical.gif)
 - Anisotropy, path-dependent and rate-dependent
 
@@ -28,6 +29,6 @@ CT image           |  Reconstruction
 - [Finite element modelling with data-driven constitutive model](https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.3370)
 <img src="../images/DD-FEM.jpg" width="80%" height="80%">
 - [Physics-constrained data-driven surrogate model](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094)
-<img src="../images/Dike-result.jpg" width="100%" height="100%">
+<img src="../images/Dike-result.gif" width="80%" height="80%">
 
 ## Digital twin
