@@ -13,6 +13,7 @@ author_profile: true
 
 - Civil Engineering domain:
 
+  - [Acta Geotechnica (Springer)](https://www.springer.com/journal/11440)
   - [Engineering Structures (Elsevier)](https://www.sciencedirect.com/journal/engineering-structures)
   - [Geoderma (Elsevier)](https://www.sciencedirect.com/journal/geoderma)
   - [International Journal of Rock Mechanics and Mining Sciences (Elsevier)](https://www.sciencedirect.com/journal/international-journal-of-rock-mechanics-and-mining-sciences)
