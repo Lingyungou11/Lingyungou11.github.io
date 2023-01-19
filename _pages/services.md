@@ -11,10 +11,11 @@ author_profile: true
 
 ## Journal Reviewer:
 
-- Civil Engineering domain:
+- Civil/Mechanics/Geoscience Engineering domain:
 
   - [Acta Geotechnica (Springer)](https://www.springer.com/journal/11440)
   - [Engineering Structures (Elsevier)](https://www.sciencedirect.com/journal/engineering-structures)
+  - [Engineering Failure Analysis (Elsevier)](https://www.sciencedirect.com/journal/engineering-failure-analysis)
   - [Earth Science Informatics (Springer)](https://www.springer.com/journal/12145)
   - [Geoderma (Elsevier)](https://www.sciencedirect.com/journal/geoderma)
   - [International Journal of Rock Mechanics and Mining Sciences (Elsevier)](https://www.sciencedirect.com/journal/international-journal-of-rock-mechanics-and-mining-sciences)
