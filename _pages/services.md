@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journal Reviewer:
 
-- Civil/Mechanics/Geoscience Engineering domain:
+- Civil Engineering/Mechanics/Geoscience domain:
 
   - [Acta Geotechnica (Springer)](https://www.springer.com/journal/11440)
   - [Engineering Structures (Elsevier)](https://www.sciencedirect.com/journal/engineering-structures)
