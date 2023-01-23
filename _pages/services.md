@@ -5,9 +5,13 @@ permalink: /services/
 author_profile: true
 ---
 
+## Professional Membership:
+
+- Member of British Geotechnical Association
+
 ## Conference Organizer:
 
-  - 2022/11: Chair of [ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications](https://www.issmge.org/news/issmge-tc309-technical-forum-of-young-scholars-on-data-driven-modelling-of-soil-behaviours-with-geotechnical-applications), *Hong Kong SAR*
+- 2022/11: Chair of [ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications](https://www.issmge.org/news/issmge-tc309-technical-forum-of-young-scholars-on-data-driven-modelling-of-soil-behaviours-with-geotechnical-applications), *Hong Kong SAR*
 
 ## Journal Reviewer:
 
