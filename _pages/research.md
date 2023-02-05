@@ -21,8 +21,8 @@ author_profile: true
 ## Data-driven constitutive modelling of soil behaviours
 - Anisotropy, path-dependent and rate-dependent
 - [Finite element modelling with data-driven constitutive model](https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.3370)
-<img src="../images/DD-FEM.jpg" width="80%" height="80%">
 - [Physics-constrained data-driven surrogate model](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094)
+<img src="../images/DD-FEM.jpg" width="80%" height="80%">
 <img src="../images/Dike-result.gif" width="80%" height="80%">
 
 ## In-situ monitoring and risk prediction
