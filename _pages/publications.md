@@ -60,6 +60,6 @@ author_profile: true
 
 ## Conference Papers
 1. **Zhang P**, Sheil B, Yin ZY, 2023, Physics-informed data-driven modelling of caisson foundations. *The 4th International Symposium on Machine Learning & Big Data in Geoscience*, Ireland (Submitted)
-2. He GF+, **Zhang P**, Yin ZY, 2022, Data-driven modelling of rate-dependent behaviour of soft clays. *The 25th Annual Conference of HKSTAM 2022 The 17th Jiangsu – Hong Kong Forum on Mechanics and Its Application*, Hong Kong
+2. He GF+, **Zhang P**, Yin ZY, 2022, Data-driven modelling of rate-dependent behaviour of soft clays. *The 25th Annual Conference of HKSTAM 2022, the 17th Jiangsu – Hong Kong Forum on Mechanics and Its Application*, Hong Kong
 3. **Zhang P**, Yin ZY, 2020, [A LSTM surrogate modelling approach for caisson foundations](http://i2ms.ust.hk/hkstam/download/HKSTAM_AC2020_Proceedings.pdf), *Proceedings of the 24th Annual Conference of HKSTAM 2020, the 16th Shanghai – Hong Kong Forum on Mechanics and Its Application*, Hong Kong
 4. **Zhang P**, Liu Y, Kang X, Zhong K, Chen RP, 2018. [Application of horizontal MJS piles in tunneling beneath existing twin tunnels](https://link.springer.com/chapter/10.1007/978-981-10-6632-0_25). *Proceedings of the 2nd International Symposium on Asia Urban GeoEngineering*, Changsha, Hunan, China, 323-331
