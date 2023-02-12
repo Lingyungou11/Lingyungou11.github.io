@@ -15,7 +15,7 @@ author_profile: true
 - [Recontruction of particles from computed-tomography(CT) images](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GT.1943-5606.0002790)
 - [Machine learning assisted quantification of particle size and morphology](https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3296)
 - [Extract mechanical behaviours from images](https://www.sciencedirect.com/science/article/pii/S004578252100195X)
-<img src="../images/Reconstruction.gif" width="80%" height="80%">
+<img src="../images/reconstruction.gif" width="80%" height="80%">
 <img src="../images/From-image-to-mechanical.gif" width="80%" height="80%">
 
 ## Data-driven constitutive modelling of soil behaviours
