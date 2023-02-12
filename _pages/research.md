@@ -26,3 +26,6 @@ author_profile: true
 <img src="../images/Dike-result.gif" width="80%" height="80%">
 
 ## In-situ monitoring and risk prediction
+- [In-situ monitoring](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29GT.1943-5606.0002287) and [remote sensing](https://www.sciencedirect.com/science/article/abs/pii/S0886779819305711)
+- [Big data analysis](https://www.sciencedirect.com/science/article/abs/pii/S1568494619306404) and [modelling of engineering practice](https://www.sciencedirect.com/science/article/abs/pii/S0926580518311488) 
+<img src="../images/tunnel.gif" width="80%" height="80%">
