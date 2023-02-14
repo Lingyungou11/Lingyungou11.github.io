@@ -10,10 +10,7 @@ main:
     url: /talks/   
     
   - title: "Services"
-    url: /services/
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /services/   
     
   - title: "Awards"
     url: /awards/  
