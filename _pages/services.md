@@ -17,6 +17,7 @@ author_profile: true
 
 - Civil Engineering/Mechanics/Geoscience domain:
 
+  - [Acta Geophysica (Springer)](https://www.springer.com/journal/11600)
   - [Acta Geotechnica (Springer)](https://www.springer.com/journal/11440)
   - [Engineering Structures (Elsevier)](https://www.sciencedirect.com/journal/engineering-structures)
   - [Engineering Failure Analysis (Elsevier)](https://www.sciencedirect.com/journal/engineering-failure-analysis)
