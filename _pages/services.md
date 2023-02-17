@@ -37,6 +37,7 @@ author_profile: true
 
   - [Advanced Engineering Informatics (Elsevier)](https://www.sciencedirect.com/journal/advanced-engineering-informatics)
   - [Advances in Manufacturing (Springer)](https://www.sciencedirect.com/journal/engineering-structures)
+  - [Chemosphere](https://www.sciencedirect.com/journal/chemosphere)
   - [Computers and Electronics in Agriculture (Elsevier)](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)
   - [Digital Signal Processing (Elsevier)](https://www.sciencedirect.com/journal/digital-signal-processing)
   - [Heliyon (Cell Press)](https://www.cell.com/heliyon/home)
