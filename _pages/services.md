@@ -8,6 +8,7 @@ author_profile: true
 ## Professional Membership:
 
 - Member of British Geotechnical Association
+- Nominated member of TC222 Geotechnical BIM and DT, ISSMGE
 
 ## Conference Organizer:
 
