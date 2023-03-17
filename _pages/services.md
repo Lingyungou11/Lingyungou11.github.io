@@ -14,6 +14,10 @@ author_profile: true
 
 - 2022/11: Chair of [ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications](https://www.issmge.org/news/issmge-tc309-technical-forum-of-young-scholars-on-data-driven-modelling-of-soil-behaviours-with-geotechnical-applications), *Hong Kong SAR*
 
+## Editoral Membership:
+
+- 2023: Guest Editor of [a special issue of “Data-Centric Engineering”](https://www.cambridge.org/core/journals/data-centric-engineering/announcements/call-for-papers/dce-call-for-papers-data-driven-techniques-in-geoscience-geomechanics-and-geotechnical-engineering)
+
 ## Journal Reviewer:
 
 - Civil Engineering/Mechanics/Geoscience domain:
@@ -42,6 +46,7 @@ author_profile: true
   - [Chemosphere (Elsevier)](https://www.sciencedirect.com/journal/chemosphere)
   - [Computers and Electronics in Agriculture (Elsevier)](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)
   - [Digital Signal Processing (Elsevier)](https://www.sciencedirect.com/journal/digital-signal-processing)
+  - [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
   - [Heliyon (Cell Press)](https://www.cell.com/heliyon/home)
   - [IEEE ACCESS (IEEE Xplore)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
   - [IEEE Transactions on Intelligent Transportation Systems (IEEE Xplore)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
