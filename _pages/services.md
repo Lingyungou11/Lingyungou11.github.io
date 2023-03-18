@@ -46,7 +46,7 @@ author_profile: true
   - [Chemosphere (Elsevier)](https://www.sciencedirect.com/journal/chemosphere)
   - [Computers and Electronics in Agriculture (Elsevier)](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)
   - [Digital Signal Processing (Elsevier)](https://www.sciencedirect.com/journal/digital-signal-processing)
-  - [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+  - [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
   - [Heliyon (Cell Press)](https://www.cell.com/heliyon/home)
   - [IEEE ACCESS (IEEE Xplore)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
   - [IEEE Transactions on Intelligent Transportation Systems (IEEE Xplore)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
