@@ -25,6 +25,7 @@ author_profile: true
   - [Acta Geophysica (Springer)](https://www.springer.com/journal/11600)
   - [Acta Geotechnica (Springer)](https://www.springer.com/journal/11440)
   - [Computers and Geotechnics (Elsevier)](https://www.sciencedirect.com/journal/computers-and-geotechnics)
+  - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
   - [Engineering Failure Analysis (Elsevier)](https://www.sciencedirect.com/journal/engineering-failure-analysis)
   - [Engineering Structures (Elsevier)](https://www.sciencedirect.com/journal/engineering-structures)
   - [Earth Science Informatics (Springer)](https://www.springer.com/journal/12145)
