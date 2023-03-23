@@ -22,7 +22,7 @@ author_profile: true
 - 2017/11, The 2nd International Symposium on Asia Urban GeoEngineering, *Changsha, China*
 
 ## Invited talks
-- 2023/02: Centre for Smart Infrastructure and Construction, University of Cambridge, *UK*
+- 2023/02, Centre for Smart Infrastructure and Construction, University of Cambridge, *UK*
 - 2022/08, Department of Mechanical and Industrial Engineering, Northeastern University, *USA*
-- 2022/05: School of Civil Engineering, Hunan University, *China*
+- 2022/05, School of Civil Engineering, Hunan University, *China*
 - 2022/04, Department of Chemical and Biomolecular Engineering, University of Pennsylvania, *USA*
