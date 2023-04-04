@@ -4,7 +4,7 @@ title: "Awards and Honors"
 permalink: /awards/
 author_profile: true
 ---
-
+- 2023/3: Ringo Yu Prize (Best PhD Thesis), *The Hong Kong Institution of Engineers*
 - 2022/09: Royal Society-Newton International Fellow, *UK*
 - 2022/08: JSPS Postdoctoral Fellow, *Japan*
 - 2022/04: Editor’s Choice, *Journal of Engineering Mechanics (ASCE)*
