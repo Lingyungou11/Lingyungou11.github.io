@@ -8,9 +8,7 @@ author_profile: true
 - 2022/09: Royal Society-Newton International Fellow, *UK*
 - 2022/08: JSPS Postdoctoral Fellow, *Japan*
 - 2022/04: Editor’s Choice, *Journal of Engineering Mechanics (ASCE)*
-- 2022/01-Date: Most Cited Articles, *Engineering Geology (Elsevier)*
-- 2021/12: Most Cited Articles in 2020-2021, *Tunnelling and Underground Space Technology (Elsevier)*
-- 2021/01-2022/11: Most Cited Articles (Rank 1), *Soils and Foundations (Elsevier)*
+- 2021/2022: Top Cited Article, *Tunnell. Undergr. Space Technol./ Eng. Geol./ Soils Found. (Elsevier)*
 - 2020/2021: Outstanding Master’s Dissertation Award, *Hunan University/ Hunan Province*
 - 2020/12: Best oral presentation award, *Hong Kong Society of Theoretical and Applied Mechanics*
 - 2020/05: Editor’s Choice, *Frontiers of structural and Civil Engineering (Springer)*
