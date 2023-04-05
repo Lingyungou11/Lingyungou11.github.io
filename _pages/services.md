@@ -53,5 +53,6 @@ author_profile: true
   - [IEEE Transactions on Intelligent Transportation Systems (IEEE Xplore)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
   - [Information Sciences (Elsevier)](https://www.sciencedirect.com/journal/information-sciences)
   - [Journal of Energy Storage (Elsevier)](https://www.sciencedirect.com/journal/journal-of-energy-storage)
+  - [Reliability Engineering & System Safety (Elsevier)](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety)
   - [Science China Technological Sciences (Springer)](https://www.springer.com/journal/11431)
   - [Scientific Reports (Nature Portfolio)](https://www.nature.com/srep/)
