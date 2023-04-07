@@ -16,7 +16,7 @@ author_profile: true
 
 ## Editoral Membership:
 
-- 2023: Guest Editor of [a special issue of “Data-Centric Engineering”](https://www.cambridge.org/core/journals/data-centric-engineering/announcements/call-for-papers/dce-call-for-papers-data-driven-techniques-in-geoscience-geomechanics-and-geotechnical-engineering)
+- 2023: Guest Editor of [a special issue of “Data-Centric Engineering (Cambridge)” journal](https://www.cambridge.org/core/journals/data-centric-engineering/announcements/call-for-papers/dce-call-for-papers-data-driven-techniques-in-geoscience-geomechanics-and-geotechnical-engineering)
 
 ## Journal Reviewer:
 
