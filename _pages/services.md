@@ -31,6 +31,7 @@ author_profile: true
   - [Engineering Structures (Elsevier)](https://www.sciencedirect.com/journal/engineering-structures)
   - [Earth Science Informatics (Springer)](https://www.springer.com/journal/12145)
   - [Geoderma (Elsevier)](https://www.sciencedirect.com/journal/geoderma)
+  - [International Journal of Geomechanics (ASCE)](https://ascelibrary.org/journal/ijgnai)
   - [International Journal of Rock Mechanics and Mining Sciences (Elsevier)](https://www.sciencedirect.com/journal/international-journal-of-rock-mechanics-and-mining-sciences)
   - [Journal of Computational Design and Engineering (Oxford Academic)](https://academic.oup.com/jcde)
   - [Journal of Mountain Science (Springer)](https://www.springer.com/journal/11629)
