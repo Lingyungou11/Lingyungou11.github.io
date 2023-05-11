@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am now a Royal Society Fellow in [Department of Engineering](http://www.eng.cam.ac.uk/) at [University of Cambridge](https://www.cam.ac.uk/), and also serve as a [College Research Associate](https://www.wolfson.cam.ac.uk/people/college-research-associates) in [Wolfson College, Cambridge](https://www.wolfson.cam.ac.uk/).
+- I am now a Royal Society-Newton International Fellow in [Department of Engineering](http://www.eng.cam.ac.uk/) at [University of Cambridge](https://www.cam.ac.uk/), and also serve as a [College Research Associate](https://www.wolfson.cam.ac.uk/people/college-research-associates) in [Wolfson College, Cambridge](https://www.wolfson.cam.ac.uk/).
 - Prior to joining Cambridge on Jan. 2023, I was an Postdoctoral fellow in [Department of Civil and Environmental Engineering](https://www.polyu.edu.hk/cee/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), where I received my Ph.D. on Jul. 2022 including one year in [Department of Engineering Science](https://eng.ox.ac.uk/) at [University of Oxford](https://www.ox.ac.uk/) as a visiting researcher.
 - My research interests cover the development of data-driven modelling methodology for truly adapting to engieering practice, solid/computational mechanics, image analysis and digital twin. Please feel free to contact me if you are interested in my research works.
 
