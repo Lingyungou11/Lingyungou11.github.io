@@ -40,7 +40,7 @@ author_profile: true
   - [Journal of Zhejiang University-SCIENCE A (Springer)](https://www.springer.com/journal/11582)
   - [Proceedings of the Institution of Civil Engineers-Geotechnical Engineering (ICE)](https://www.icevirtuallibrary.com/toc/jgeen/current)
   - [Proceedings of the Institution of Civil Engineers-Water Management (ICE)](https://www.icevirtuallibrary.com/toc/jwama/current)
-  - [Tunnelling and Underground Space Technology](https://www.sciencedirect.com/journal/tunnelling-and-underground-space-technology)
+  - [Tunnelling and Underground Space Technology (Elsevier)](https://www.sciencedirect.com/journal/tunnelling-and-underground-space-technology)
   - [Underground Space (Elsevier)](https://www.sciencedirect.com/journal/underground-space)
   - [Urban Water Journal (Taylor & Francis Online)](https://www.tandfonline.com/journals/nurw20?cookieSet=1)
   
