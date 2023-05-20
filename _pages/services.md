@@ -12,7 +12,7 @@ author_profile: true
 
 ## Conference Organizer:
 
-- 2023/05: Member of Organising Committee of [Alan Turing Network for AI in Geotechnics], *Glasgow, UK*
+- 2023/05: Member of Organising Committee of Alan Turing Network for AI in Geotechnics, *Glasgow, UK*
 - 2022/11: Chair of [ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications](https://www.issmge.org/news/issmge-tc309-technical-forum-of-young-scholars-on-data-driven-modelling-of-soil-behaviours-with-geotechnical-applications), *Hong Kong SAR*
 
 ## Editoral Membership:
