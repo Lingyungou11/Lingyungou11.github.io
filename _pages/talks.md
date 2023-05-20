@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Invited Conference/Workshop Presentations
-- 2023/05, Alan Turing Network for AI in Geotechnics, University of Glasgow, *UK*
+- 2023/05, Workshop on Alan Turing Network for AI in Geotechnics, University of Glasgow, *UK*
 - 2023/05, Workshop on information modelling and knowledge management for autonomous mining and construction, University of Birmingham, *UK*
 - 2022/11, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications, *Hong Kong SAR*
 - 2021/07, The 1st International Symposium on Marine Science and Engineering for Young Scientists and Postgraduates, *Guangzhou, China*
