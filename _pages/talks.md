@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Invited Conference/Workshop Presentations
+- 2023/06, 7th Eccomas Young Investigators Conference, Porto, *Portugal*
 - 2023/05, Workshop on Alan Turing Network for AI in Geotechnics, University of Glasgow, *UK*
 - 2023/05, Workshop on information modelling and knowledge management for autonomous mining and construction, University of Birmingham, *UK*
 - 2022/11, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications, *Hong Kong SAR*
