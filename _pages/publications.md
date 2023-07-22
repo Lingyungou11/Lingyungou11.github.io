@@ -19,6 +19,7 @@ author_profile: true
 
 +Supervised, #Corresponding
 
+34. **Zhang P**, Yin ZY, Sheil B., 2023. [Interpretable data-driven constitutive modelling of soils with sparse data](https://www.sciencedirect.com/science/article/abs/pii/S0266352X23002689). *Computers and Geotechnics*, 160, 105511
 33. **Zhang P**, Yin ZY, Sheil B., 2023. [A physics-informed data-driven approach for consolidation analysis](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00046). *Géotechnique*
 32. He GF+, **Zhang P#**, Yin ZY, Jin YF, Yang Y, 2023. [Multi-fidelity data-driven modelling of rate-dependent behaviour of soft clays](https://www.tandfonline.com/doi/full/10.1080/17499518.2022.2149815?src=). *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*
 
