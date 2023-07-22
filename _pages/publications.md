@@ -21,7 +21,7 @@ author_profile: true
 
 34. **Zhang P**, Yin ZY, Sheil B., 2023. [Interpretable data-driven constitutive modelling of soils with sparse data](https://www.sciencedirect.com/science/article/abs/pii/S0266352X23002689). *Computers and Geotechnics*, 160, 105511
 33. **Zhang P**, Yin ZY, Sheil B., 2023. [A physics-informed data-driven approach for consolidation analysis](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00046). *Géotechnique*
-32. He GF+, **Zhang P#**, Yin ZY, Jin YF, Yang Y, 2023. [Multi-fidelity data-driven modelling of rate-dependent behaviour of soft clays](https://www.tandfonline.com/doi/full/10.1080/17499518.2022.2149815?src=). *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*
+32. He GF+, **Zhang P#**, Yin ZY, Jin YF, Yang Y, 2023. [Multi-fidelity data-driven modelling of rate-dependent behaviour of soft clays](https://www.tandfonline.com/doi/full/10.1080/17499518.2022.2149815?src=). *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*, 17:1, 64-76
 
 31. **Zhang P**, Yin ZY, Jin YF, Sheil B., 2022. [Physics-constrained hierarchical data-driven modelling framework for complex path‐dependent behaviour of soils](https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3370). *International Journal for Numerical and Analytical Methods in Geomechanics*, 46(10), 1831-1850
 30. **Zhang P**, Yin ZY, Jin YF, 2022. [Bayesian neural network-based uncertainty modelling: application to soil compressibility and undrained shear strength prediction](https://cdnsciencepub.com/doi/full/10.1139/cgj-2020-0751). *Canadian Geotechnical Journal*, 59, 546-557
