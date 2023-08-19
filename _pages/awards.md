@@ -5,9 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 - 2023/03: Ringo Yu Prize (Best PhD Thesis), *The Hong Kong Institution of Engineers*
-- 2023/03: Turing Network Development Award, *The Alan Turing Institute, United Kindom*
+- 2023/03: Turing Network Development Award, *The Alan Turing Institute, United Kingdom*
 - 2023/03: Top Cited/Downloaded Article, *Int. J. Numer. Anal. Methods Geomech. (Wiley)*
-- 2022/09: Royal Society-Newton International Fellow, *United Kindom*
+- 2022/09: Royal Society-Newton International Fellow, *United Kingdom*
 - 2022/08: JSPS Postdoctoral Fellow, *Japan*
 - 2022/04: Editor’s Choice, *Journal of Engineering Mechanics (ASCE)*
 - 2021/2022: Top Cited Article, *Tunnell. Undergr. Space Technol./ Eng. Geol./ Soils Found. (Elsevier)*
