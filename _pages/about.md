@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- I am now a Royal Society-Newton International Fellow in [Department of Engineering](http://www.eng.cam.ac.uk/) at [University of Cambridge](https://www.cam.ac.uk/), and also serve as a [College Research Associate](https://www.wolfson.cam.ac.uk/people/college-research-associates) in [Wolfson College, Cambridge](https://www.wolfson.cam.ac.uk/).
-- Prior to joining Cambridge on Jan. 2023, I was an Postdoctoral fellow in [Department of Civil and Environmental Engineering](https://www.polyu.edu.hk/cee/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), where I received my Ph.D. on Jul. 2022 including one year in [Department of Engineering Science](https://eng.ox.ac.uk/) at [University of Oxford](https://www.ox.ac.uk/) as a visiting researcher.
-- My research interests cover the development of data-driven modelling methodology for truly adapting to engineering practice, solid/computational mechanics, image analysis and digital twin. Please feel free to contact me if you are interested in my research works.
+- I am now a graduate student in the [College of Civil Engineering](http://ce.hnu.edu.cn/) at [Hunan University](https://www.hnu.edu.cn/). Prior to this, I completed my undergraduate studies at the same institution.
+- My research interests primarily revolve around soil physics and unsaturated soil mechanics, including free energy change of pore water, soil hydraulic behaviors, as well as the strength and deformation of unsaturated soil. I specialize in employing molecular simulation and microscopic experiments, e.g., neutron scattering, to investigate the intricate microscale soil-water interaction mechanisms.
+- I actively participated in international conferences such as “Interpore2023”. To date, I published four research papers in Water Resources Research, Journal of Geotechnical and Geoenvironmental Engineering, and Acta Geotechnica.
 
 Recent News
 ======
