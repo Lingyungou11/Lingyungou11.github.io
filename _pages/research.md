@@ -18,7 +18,7 @@ author_profile: true
 - [Extended the classic critical state soil mechanics to incorporate the effect of adsorptive suction stress](https://doi.org/10.1061/JGGEFK.GTENG-11798)
 - [Developed a semi-analytical solutions for soil consolidation induced by drying](https://doi.org/10.1007/s11440-022-01623-4)
 - Measured nanopore evolution in clay during drying via Small-Angle Neutron Scattering
-<img src="../images/SANS.JPG" width="60%" height="60%">
+<img src="../images/SANS.jpg" width="60%" height="60%">
 
 ## Exploring Microscale Soil-Water Interactions through Molecular Simulationn 
 - Unveiled the physical origins of the abnormal high pore water viscosity
