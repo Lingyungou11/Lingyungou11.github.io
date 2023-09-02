@@ -19,10 +19,12 @@ author_profile: true
 - [Developed a semi-analytical solutions for soil consolidation induced by drying](https://doi.org/10.1007/s11440-022-01623-4)
 - Measured nanopore evolution in clay during drying via Small-Angle Neutron Scattering
 <img src="../images/3.1.jpg" width="80%" height="60%">
+
 <img src="../images/3.2.jpg" width="80%" height="60%">
 
 ## Exploring Microscale Soil-Water Interactions through Molecular Simulationn 
 - Unveiled the physical origins of the abnormal high pore water viscosity
 - Discovery of pore water flow induced by adsorption
 <img src="../images/4.1.jpg" width="80%" height="60%">
-<img src="../images/4.2.jpg" width="80%" height="60%">
+
+<img src="../images/4.2.jpg" width="70%" height="63%">
