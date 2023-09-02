@@ -8,6 +8,7 @@ author_profile: true
 ## Free energy change of soil pore water
 - [Proposed a thermodynamic framework for water potential of soil](https://doi.org/10.1029/2022WR032369): incoporating capillarity, adsorption, osmosis, and gravity
 <img src="../images/PiNet.jpg" width="80%" height="80%">
+- 
 
 ## Free energy change of soil pore water
 
