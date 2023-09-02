@@ -5,34 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-## Free energy change of soil pore water
-- [Proposed a thermodynamic framework for water potential of soil](https://doi.org/10.1029/2022WR032369): incoporating capillarity, adsorption, osmosis, and gravity
+## Theoretical Research in Free Energy Change of Soil Pore Water
+- [Proposed a thermodynamic framework for water potential of soil](https://doi.org/10.1029/2022WR032369)
 <img src="../images/PiNet.jpg" width="80%" height="80%">
-- 
 
-## Free energy change of soil pore water
+## Theoretical Research in Soil Hydraulic Behaviors
+- [Established a soil hydraulic conductivity equation incorporating capillary and adsorptive film flow](https://doi.org/10.1061/JGGEFK.GTENG-11388)
+- Developed a closed-form solution for film flow in nanoscale clayey soil pores with spatially varying viscosity
 
-## Development of data-driven modelling theory and methodology
-- [Prior information based neural network (PiNet)](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00046): make more generalisable
-- [Multi-fidelity residual neural network (MRNN)](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094): adapt to sparse data
-- [Bayesian neural network](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2020-0751): uncertainty quantification
+## Theoretical and Experimental Research in the Strength and Deformation of Unsaturated Soil
+- [Extended the classic critical state soil mechanics to incorporate the effect of adsorptive suction stress](https://doi.org/10.1061/JGGEFK.GTENG-11798)
+- [Developed a semi-analytical solutions for soil consolidation induced by drying](https://doi.org/10.1007/s11440-022-01623-4)
+- Measured nanopore evolution in clay during drying via Small-Angle Neutron Scattering
 <img src="../images/MRNN.JPG" width="80%" height="80%">
 
-## Data-driven constitutive modelling of soil behaviours
-- Anisotropy, path-dependent and rate-dependent
-- [Finite element modelling with data-driven constitutive model](https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.3370)
-- [Physics-constrained data-driven surrogate model](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094)
+## Exploring Microscale Soil-Water Interactions through Molecular Simulationn 
+- Unveiled the physical origins of the abnormal high pore water viscosity
+- Discovery of pore water flow induced by adsorption
 <img src="../images/DD-FEM.jpg" width="80%" height="80%">
 <img src="../images/Dike-result.gif" width="80%" height="80%">
-
-## Micromechanics
-- [Recontruction of particles from computed-tomography(CT) images](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GT.1943-5606.0002790)
-- [Machine learning assisted quantification of particle size and morphology](https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3296)
-- [Extract mechanical behaviours from images](https://www.sciencedirect.com/science/article/pii/S004578252100195X)
-<img src="../images/reconstruction.gif" width="80%" height="80%">
-<img src="../images/From-image-to-mechanical.gif" width="80%" height="80%">
-
-## In-situ monitoring and sensing technology
-- [In-situ monitoring](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29GT.1943-5606.0002287) and [remote sensing](https://www.sciencedirect.com/science/article/abs/pii/S0886779819305711)
-- [Big data analysis](https://www.sciencedirect.com/science/article/abs/pii/S1568494619306404) and [modelling of engineering practice](https://www.sciencedirect.com/science/article/abs/pii/S0926580518311488) 
-<img src="../images/tunnel.gif" width="80%" height="80%">
