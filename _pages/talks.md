@@ -16,4 +16,4 @@ author_profile: true
 {% endfor %} -->
 
 ## 2023/05, InterPore2013, Heriot-Watt University, *Edinburgh*
-<img src="../images/Talk.jpg" width="80%" height="60%">
+<img src="../images/Talk.jpg" width="100%" height="80%">
