@@ -10,7 +10,7 @@ redirect_from:
 
 - I am now a graduate student in the [College of Civil Engineering](http://ce.hnu.edu.cn/) at [Hunan University](http://www-en.hnu.edu.cn/). Prior to this, I completed my undergraduate studies at the same institution.
 - My research interests primarily revolve around soil physics and unsaturated soil mechanics, including free energy change of pore water, soil hydraulic behaviors, as well as the strength and deformation of unsaturated soil. I specialize in employing molecular simulation and microscopic experiments, e.g., neutron scattering, to investigate the microscale soil-water interaction mechanisms.
-- I actively participated in international conferences such as “Interpore2023”. To date, I published four research papers in Water Resources Research, Journal of Geotechnical and Geoenvironmental Engineering, and Acta Geotechnica.
+- I actively participated in international conferences such as “Interpore2023”. To date, I published four research papers in *Water Resources Research*, *Journal of Geotechnical and Geoenvironmental Engineering*, and *Acta Geotechnica*.
 
 Awards and Honors
 ======
@@ -18,7 +18,6 @@ Awards and Honors
 - “Academic Top Ten Award” of College of Civil Engineering, _Hunan University_, June 2023
 - Merit Graduate Student of Hunan University, _Hunan University_, November 2022
 - First Class Scholarship of Hunan University, _Hunan University_, November 2022
-
 
 *During the Bachelor’s degree*
 - Outstanding Undergraduate Graduates of Hunan Province, _Department of Education of the Hunan Province_, May 2021
