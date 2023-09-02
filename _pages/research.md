@@ -5,6 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
+## Free energy change of soil pore water
+- [Proposed a thermodynamic framework for water potential of soil](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00046): incoporating capillarity, adsorption, osmosis, and gravity  
+
 ## Development of data-driven modelling theory and methodology
 - [Prior information based neural network (PiNet)](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00046): make more generalisable
 - [Multi-fidelity residual neural network (MRNN)](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0002094): adapt to sparse data
