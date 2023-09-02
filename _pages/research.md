@@ -16,8 +16,8 @@ author_profile: true
 
 ## Theoretical and Experimental Research in the Strength and Deformation of Unsaturated Soil
 - [Extended the classic critical state soil mechanics to incorporate the effect of adsorptive suction stress](https://doi.org/10.1061/JGGEFK.GTENG-11798)
-- [Developed a semi-analytical solutions for soil consolidation induced by drying](https://doi.org/10.1007/s11440-022-01623-4)
 - Measured nanopore evolution in clay during drying via Small-Angle Neutron Scattering
+- [Developed a semi-analytical solutions for soil consolidation induced by drying](https://doi.org/10.1007/s11440-022-01623-4)
 <img src="../images/3.3.jpg" width="80%" height="60%">
 
 ## Exploring Microscale Soil-Water Interactions through Molecular Simulationn 
