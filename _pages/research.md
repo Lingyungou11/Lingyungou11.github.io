@@ -7,7 +7,7 @@ author_profile: true
 
 ## Theoretical Research in Free Energy Change of Soil Pore Water
 - [Proposed a thermodynamic framework for water potential of soil](https://doi.org/10.1029/2022WR032369)
-<img src="../images/Soil water potential.jpg" width="80%" height="80%">
+<img src="../images/Soil water potential.jpg" width="60%" height="60%">
 
 ## Theoretical Research in Soil Hydraulic Behaviors
 - [Established a soil hydraulic conductivity equation incorporating capillary and adsorptive film flow](https://doi.org/10.1061/JGGEFK.GTENG-11388)
