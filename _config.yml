@@ -11,7 +11,7 @@ title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://lingyungou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://PinZhang3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lingyun Gou"
-  avatar           : #"Self.jpg"
-  bio              : #"Royal Society-Newton International Fellow"
-  location         : "Hunan University"
-  email            : "lygou@hnu.edu.cn"
+  name             : "Pin ZHANG"
+  avatar           : "Self.jpg"
+  bio              : "Royal Society-Newton International Fellow"
+  location         : "University of Cambridge"
+  email            : "dr.pin.zhang@gmail.com"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=E0lYieYAAAAJ&hl=zh-CN"
-  researchgate     : "https://www.researchgate.net/profile/Lingyun-Gou"
+  googlescholar    : "https://scholar.google.com/citations?user=_4-M1mYAAAAJ&hl=en"
+  researchgate     : "https://www.researchgate.net/profile/Pin-Zhang-3?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"PinZhang3"
+  github           : "PinZhang3"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"Dr_Pin_ZHANG"
+  twitter          : "Dr_Pin_ZHANG"
   vine             :
   weibo            :
   xing             :
