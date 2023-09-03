@@ -14,14 +14,11 @@ redirect_from:
 
 Awards and Honors
 ======
-*During the Master’s degree*
+- **Chinese National Scholarship**, _Ministry of Education of the People’s Republic of China_, December 2019, 2020
 - “Academic Top Ten Award” of College of Civil Engineering, _Hunan University_, June 2023
 - Merit Graduate Student of Hunan University, _Hunan University_, November 2022
 - First Class Scholarship of Hunan University, _Hunan University_, November 2022
-
-*During the Bachelor’s degree*
 - Outstanding Undergraduate Graduates of Hunan Province, _Department of Education of the Hunan Province_, May 2021
-- Chinese National Scholarship, _Ministry of Education of the People’s Republic of China_, December 2019, 2020
 - First Prize of Hunan Provincial Physics Competition, _Department of Education of the Hunan Province_, September 2019
 - Second Prize of Hunan Mechanics Competition, _Department of Education of the Hunan Province_, August 2019
 - Merit Undergraduate Student of Hunan University, _Hunan University_, December 2019, 2020
