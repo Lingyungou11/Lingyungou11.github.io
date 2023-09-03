@@ -15,5 +15,5 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-## 2023/05, InterPore2013, Heriot-Watt University, *Edinburgh*
+## 2023/05, InterPore2023, Heriot-Watt University, *Edinburgh*
 <img src="../images/Talk.jpg" width="100%" height="80%">
