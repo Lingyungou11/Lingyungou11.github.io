@@ -25,12 +25,12 @@ capillarity](https://doi.org/10.1061/JGGEFK.GTENG-11388). ***Journal of Geotechn
 4. Zhang, C.+, **L. Gou**, S. Hu#, and N. Lu+. 2023. [A thermodynamic formulation of water potential in soil](https://doi.org/10.1029/2022WR032369). ***Water Resources Research***, 58(9), 1-20.
 
 ## Under Review Papers
-5. **Gou, L.**, and C. Zhang+#. 2023. "A closed-form solution for film flow in nanoscale pores with spatially varying
-viscosity". *Journal of hydrology*.
-6. Zhang, Y., **L. Gou**#, C. Zhang+#, Z. Qiu, and R. Chen. 2023."Effects of iron oxide cementation on the mechanical
-properties of granite residual soil in the full suction range". *Acta Geotechnica*.
-7. Yang, Y., C. Zhang+#, **L. Gou**, R. Chen, and Y. Dong. 2023. "Role of substrate roughness in soil desiccation cracking". *Canadian Geotechnical Journal*.
+5. **Gou, L.**, and C. Zhang+#. 2023. A closed-form solution for film flow in nanoscale pores with spatially varying
+viscosity. *Journal of hydrology*.
+6. Zhang, Y., **L. Gou**#, C. Zhang+#, Z. Qiu, and R. Chen. 2023. Effects of iron oxide cementation on the mechanical
+properties of granite residual soil in the full suction range. *Acta Geotechnica*.
+7. Yang, Y., C. Zhang+#, **L. Gou**, R. Chen, and Y. Dong. 2023. Role of substrate roughness in soil desiccation cracking. *Canadian Geotechnical Journal*.
 
 ## Working Papers
-8. "**Physical origins of enhanced water viscosity in clayey soils**", to be submitted to *Journal of Engineering Mechanics*.
-9. "**Nanopore evolution in clay during drying via Small-Angle Neutron Scattering**", to be submitted to *Applied Clay Science*.
+8. **Physical origins of enhanced water viscosity in clayey soils**, to be submitted to *Journal of Engineering Mechanics*.
+9. **Nanopore evolution in clay during drying via Small-Angle Neutron Scattering**, to be submitted to *Applied Clay Science*.
