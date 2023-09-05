@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-+Superviser, #Corresponding
++Supervisor, #Corresponding
 
 ## Published Journal Papers
 1. **Gou, L.**, C. Zhang+#, N. Lu+, and S. Hu. 2023. [A soil hydraulic conductivity equation incorporating adsorption and
