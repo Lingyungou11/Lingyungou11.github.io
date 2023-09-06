@@ -19,6 +19,7 @@ author_profile: true
 
 ## Theoretical and Experimental Research in the Strength and Deformation of Unsaturated Soil
 - [Extended the classic critical state soil mechanics to incorporate the effect of adsorptive suction stress](https://doi.org/10.1061/JGGEFK.GTENG-11798)
+- Prepared the soil samples with varying iron oxide content, and measured their mechanical properties in the full suction range
 - Measured nanopore evolution in clay during drying via Small-Angle Neutron Scattering
 <img src="../images/Test.jpg" width="80%" height="80%">
 
