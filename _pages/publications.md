@@ -30,8 +30,9 @@ viscosity. *Journal of hydrology*.
 6. Zhang, Y., **L. Gou**#, C. Zhang+#, Z. Qiu, and R. Chen. 2023. Effects of iron oxide cementation on the mechanical
 properties of granite residual soil in the full suction range. *Acta Geotechnica*.
 7. Yang, Y., C. Zhang+#, **L. Gou**, R. Chen, and Y. Dong. 2023. Role of substrate roughness in soil desiccation cracking. *Canadian Geotechnical Journal*.
-8. Hu, S., C. Zhang+#, Y. Dong, **L. Gou**, and R. Chen. 2023. Water vapor sorption isotherms of salt-affected soils. *Geotechique*. (Under Review)
+8. Hu, S., C. Zhang+#, Y. Dong, **L. Gou**, and R. Chen. 2023. Water vapor sorption isotherms of salt-affected soils. *Geotechique*.
+9. Zhang, C.+, L. Li, S. Hu#, **L. Gou**, and R. Chen. 2023. Physical origin of adsorption heat and its significance in the isotherm equation. *International Journal of Heat and Mass Transfer*. 
 
 ## Working Papers
-8. **Physical origins of enhanced water viscosity in clayey soils**, to be submitted to *Journal of Engineering Mechanics*.
-9. **Nanopore evolution in clay during drying via Small-Angle Neutron Scattering**, to be submitted to *Applied Clay Science*.
+10. **Physical origins of enhanced water viscosity in clayey soils**, to be submitted to *Journal of Engineering Mechanics*.
+11. **Nanopore evolution in clay during drying via Small-Angle Neutron Scattering**, to be submitted to *Applied Clay Science*.
