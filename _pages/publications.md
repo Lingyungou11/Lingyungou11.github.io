@@ -21,8 +21,8 @@ author_profile: true
 1. **Gou, L.**, C. Zhang+#, N. Lu+, and S. Hu. 2023. [A soil hydraulic conductivity equation incorporating adsorption and
 capillarity](https://doi.org/10.1061/JGGEFK.GTENG-11388). ***Journal of Geotechnical and Geoenvironmental Engineering***, 149(8).
 2. **Gou, L.**, C. Zhang+#, S. Hu, R. Chen, and Y. Dong. 2023. [Semi-analytical solutions for soil consolidation induced by drying](https://doi.org/10.1007/s11440-022-01623-4). ***Acta Geotechnica***, 18(2), 739-755.
-3. Lu, N.+#, **L. Gou**, C. Zhang+, A. R. A. Calderon, and A. Wayllace. 2023. [Closure to “Uniqueness of suction stress value at liquid limit of soil”](https://doi.org/10.1061/JGGEFK.GTENG-11798). ***Journal of Geotechnical and Geoenvironmental Engineering***, 149(11), 1-5.
-4. Zhang, C.+, **L. Gou**, S. Hu#, and N. Lu+. 2023. [A thermodynamic formulation of water potential in soil](https://doi.org/10.1029/2022WR032369). ***Water Resources Research***, 58(9), 1-20.
+3. Zhang, C.+, **L. Gou**, S. Hu#, and N. Lu+. 2023. [A thermodynamic formulation of water potential in soil](https://doi.org/10.1029/2022WR032369). ***Water Resources Research***, 58(9), 1-20.
+4. Lu, N.+#, **L. Gou**, C. Zhang+, A. R. A. Calderon, and A. Wayllace. 2023. [Closure to “Uniqueness of suction stress value at liquid limit of soil”](https://doi.org/10.1061/JGGEFK.GTENG-11798). ***Journal of Geotechnical and Geoenvironmental Engineering***, 149(11), 1-5.
 5. Zhang, C.+, L. Li,  S. Hu#, **L. Gou**, and R. Chen. 2023. Physical origin of adsorption heat and its significance in the isotherm equation. ***International Journal of Heat and Mass Transfer***, Accepted.
 
 ## Under Review Papers
