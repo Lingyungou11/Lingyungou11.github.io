@@ -21,7 +21,7 @@ author_profile: true
 - Measured nanopore evolution in clay during drying via Small-Angle Neutron Scattering
 <img src="../images/3.jpg" width="80%" height="80%">
 
-## Exploring Microscale Soil-Water Interactions through Molecular Simulationn 
+## Exploring Microscale Soil-Water Interactions through Molecular Simulation
 - Unveiled the physical origins of the abnormal high pore water viscosity
 - Discovery of pore water flow induced by adsorption
 <img src="../images/4.jpg" width="80%" height="80%">
