@@ -24,14 +24,14 @@ author_profile: true
 capillarity](https://doi.org/10.1061/JGGEFK.GTENG-11388). ***Journal of Geotechnical and Geoenvironmental Engineering***, 149(8).
 4. Lu, N.+#, **L. Gou**, C. Zhang+, A. R. A. Calderon, and A. Wayllace. 2023. [Closure to “Uniqueness of suction stress value at liquid limit of soil”](https://doi.org/10.1061/JGGEFK.GTENG-11798). ***Journal of Geotechnical and Geoenvironmental Engineering***, 149(11), 1-5.
 5. Zhang, C.+, L. Li,  S. Hu#, **L. Gou**, and R. Chen. 2024. [Physical origin of adsorption heat and its significance in the isotherm equation](https://www.sciencedirect.com/science/article/pii/S0017931023010591). ***International Journal of Heat and Mass Transfer***, 220, 124914.
+6. Zhang, Y., **L. Gou**#, C. Zhang+#, Z. Qiu, and R. Chen. 2023. Effects of iron oxide cementation on the mechanical
+properties of granite residual soil in the full suction range. *Acta Geotechnica*. Accepted.
 
 ## Under Review Papers
-5. **Gou, L.**, and C. Zhang+#. 2023. A closed-form solution for film flow in nanoscale pores with spatially varying
+7. **Gou, L.**, and C. Zhang+#. 2023. A closed-form solution for film flow in nanoscale pores with spatially varying
 viscosity. *Journal of Engineering Mechanics*.
-6. Zhang, Y., **L. Gou**#, C. Zhang+#, Z. Qiu, and R. Chen. 2023. Effects of iron oxide cementation on the mechanical
-properties of granite residual soil in the full suction range. *Acta Geotechnica*.
-7. Yang, Y., C. Zhang+#, **L. Gou**, R. Chen, and Y. Dong. 2023. Role of substrate roughness in soil desiccation cracking. *Canadian Geotechnical Journal*.
+8. Yang, Y., C. Zhang+#, **L. Gou**, R. Chen, and Y. Dong. 2023. Role of substrate roughness in soil desiccation cracking. *Canadian Geotechnical Journal*.
 
 ## Working Papers
 10. **Physical origins of enhanced water viscosity in clayey soils**, to be submitted to *Journal of Engineering Mechanics*.
-11. **Nanopore evolution in clay during drying via Small-Angle Neutron Scattering**, to be submitted to *Applied Clay Science*.
+11. **Nanopore evolution in clay during drying via Small-Angle Neutron Scattering**, to be submitted to *Canadian Geotechnical Journal*.
