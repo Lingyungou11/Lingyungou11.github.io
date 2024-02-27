@@ -10,8 +10,8 @@ redirect_from:
 
 - I am now a graduate student in the [College of Civil Engineering](http://ce.hnu.edu.cn/) at [Hunan University](http://www-en.hnu.edu.cn/). Prior to this, I completed my undergraduate studies at the same institution.
 - My research interests primarily revolve around **soil-water interactions**, **flow in porous media**, and **unsaturated soil mechanics**, including **free energy change of pore water**, **soil hydraulic behaviors**, as well as the **strength and deformation of unsaturated soil**. I specialize in employing **molecular simulation** and microscopic experiments, e.g., **neutron scattering**, to investigate the microscale soil-water interaction mechanisms.
-- I actively participated in international conferences such as “Interpore2023”. To date, I published **four research papers** in ***Water Resources Research***, ***Journal of Geotechnical and Geoenvironmental Engineering***, and ***Acta Geotechnica***.
-- I am supervised by Prof. [Chao Zhang](https://scholar.google.com.sg/citations?hl=zh-CN&user=stT8_9MAAAAJ) and work closely with Prof. [Ning Lu](https://cee.mines.edu/project/lu-ning/). I achieved a GPA of **3.88 out of 4.00** in my undergraduate studies, ranking **1st out of 43 students** in my class.
+- I actively participated in international conferences such as “Interpore2023”. To date, I published some research papers in ***Water Resources Research***, ***Journal of Geotechnical and Geoenvironmental Engineering***, and ***Acta Geotechnica***.
+- I am supervised by Prof. [Chao Zhang](https://scholar.google.com.sg/citations?hl=zh-CN&user=stT8_9MAAAAJ) and work closely with Prof. [Ning Lu](https://cee.mines.edu/project/lu-ning/).
 
 Awards and Honors
 ======
