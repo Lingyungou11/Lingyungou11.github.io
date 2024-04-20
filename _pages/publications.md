@@ -26,12 +26,12 @@ capillarity](https://doi.org/10.1061/JGGEFK.GTENG-11388). ***Journal of Geotechn
 5. Zhang, C.+, L. Li,  S. Hu#, **L. Gou**, and R. Chen. 2024. [Physical origin of adsorption heat and its significance in the isotherm equation](https://www.sciencedirect.com/science/article/pii/S0017931023010591). ***International Journal of Heat and Mass Transfer***, 220, 124914.
 6. Zhang, Y., **L. Gou**#, C. Zhang+#, Z. Qiu, and R. Chen. 2024. Effects of iron oxide cementation on the mechanical
 properties of granite residual soil in the full suction range. ***Acta Geotechnica***. Accepted.
+7. Yang, Y., C. Zhang+#, **L. Gou**, R. Chen, and Y. Dong. 2023. Role of substrate roughness in soil desiccation cracking. ***Canadian Geotechnical Journal***. Accepted.
 
 ## Under Review Papers
-7. **Gou, L.**, and C. Zhang+#. 2023. A closed-form solution for film flow in nanoscale pores with spatially varying
+8. **Gou, L.**, and C. Zhang+#. 2023. A closed-form solution for film flow in nanoscale pores with spatially varying
 viscosity. *Journal of Engineering Mechanics*.
-8. Yang, Y., C. Zhang+#, **L. Gou**, R. Chen, and Y. Dong. 2023. Role of substrate roughness in soil desiccation cracking. *Canadian Geotechnical Journal*.
 
 ## Working Papers
-10. **Physical origins of enhanced water viscosity in clayey soils**, to be submitted to *Journal of Engineering Mechanics*.
-11. **Nanopore evolution in clay during drying via Small-Angle Neutron Scattering**, to be submitted to *Canadian Geotechnical Journal*.
+9. **Physical origins of enhanced water viscosity in clayey soils**, to be submitted to *Journal of Engineering Mechanics*.
+10. **Nanopore evolution in clay during drying via Small-Angle Neutron Scattering**, to be submitted to *Canadian Geotechnical Journal*.
