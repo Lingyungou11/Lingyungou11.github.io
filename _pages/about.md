@@ -16,6 +16,7 @@ redirect_from:
 Awards and Honors
 ======
 - **Chinese National Scholarship**, _Ministry of Education of the People’s Republic of China_, December 2019, 2020, 2023
+- Outstanding Graduate Students of Hunan Province, _Department of Education of the Hunan Province_, May 2024
 - First Class Scholarship of Hunan University, _Hunan University_, November 2018, 2021, 2022, 2023
 - Merit Graduate Student of Hunan University, _Hunan University_, November 2022, 2023
 - “Academic Top Ten Award” of College of Civil Engineering, _Hunan University_, June 2023
