@@ -20,8 +20,8 @@ author_profile: true
 ## Published Journal Papers
 1. **Gou, L.**, C. Zhang+#, N. Lu+, and S. Hu. 2023. [A soil hydraulic conductivity equation incorporating adsorption and
 capillarity](https://doi.org/10.1061/JGGEFK.GTENG-11388). **ASCE** ***Journal of Geotechnical and Geoenvironmental Engineering***, 149(8).
-2. **Gou, L.**, and C. Zhang+#. 2024. A closed-form solution for film flow in nanoscale pores with spatially varying
-viscosity. **ASCE** ***Journal of Engineering Mechanics***, Accepted.
+2. **Gou, L.**, and C. Zhang+#. 2024. [A closed-form solution for film flow in nanoscale pores with spatially varying
+viscosity](https://doi.org/10.1061/JENMDT.EMENG-7648). **ASCE** ***Journal of Engineering Mechanics***, 150(9).
 3. **Gou, L.**, C. Zhang+#, S. Hu, R. Chen, and Y. Dong. 2023. [Semi-analytical solutions for soil consolidation induced by drying](https://doi.org/10.1007/s11440-022-01623-4). ***Acta Geotechnica***, 18(2), 739-755.
 4. Zhang, C.+, **L. Gou**, S. Hu#, and N. Lu+. 2022. [A thermodynamic formulation of water potential in soil](https://doi.org/10.1029/2022WR032369). ***Water Resources Research***, 58(9), 1-20.
 5. Zhang, Y., **L. Gou**#, C. Zhang+#, Z. Qiu, and R. Chen. 2024. [Effects of iron oxide cementation on the mechanical
