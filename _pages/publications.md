@@ -33,3 +33,4 @@ properties of granite residual soil in the full suction range](https://link.spri
 
 ## Under Review Papers
 1. Hu, S., C. Zhang+#, Y. Dong, **L. Gou**, and R. Chen. 2024. Water vapor sorption isotherms of salt-affected soils. Under Review.
+2. Yi, X., C. Zhang+, **L. Gou**#, Q. Huang, P. Zhou, and R. Chen. 2024. Synchrotron-Based small angle X-Ray scattering of clay hydration at high suction. Under Review.
