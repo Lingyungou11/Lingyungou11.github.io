@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- I am now a graduate student in the [College of Civil Engineering](http://ce.hnu.edu.cn/) at [Hunan University](http://www-en.hnu.edu.cn/). Prior to this, I completed my undergraduate studies at the same institution.
-- My research interests primarily revolve around **soil-water interactions**, **flow in porous media**, and **unsaturated soil mechanics**, including **free energy change of pore water**, **soil hydraulic behaviors**, as well as the **strength and deformation of unsaturated soil**. I specialize in employing **molecular simulation** and microscopic experiments, e.g., **neutron scattering**, to investigate the microscale soil-water interaction mechanisms.
-- I actively participated in international conferences such as “Interpore2023”. To date, I published some research papers in ***Water Resources Research***, ***Journal of Geotechnical and Geoenvironmental Engineering***, and ***Acta Geotechnica***.
-- I am supervised by Prof. [Chao Zhang](https://scholar.google.com.sg/citations?hl=zh-CN&user=stT8_9MAAAAJ) and work closely with Prof. [Ning Lu](https://cee.mines.edu/project/lu-ning/).
+- I am currently a PhD student in the Department of Civil and Environmental Engineering (CEE) at Penn State. Prior to this, I completed both my Master’s and Bachelor’s degrees in the College of Civil Engineering at Hunan University.
+- My research interests encompass fundamental soil physics and knowledge-guided machine learning methodologies, with a particular focus on Arctic permafrost degradation driven by global climate change.
+- During my PhD studies, I am aupervised by Prof. [Ming Xiao](https://www.engr.psu.edu/xiao/index.html). For my Master's research, I was supervised by Prof. [Chao Zhang](https://chaozhanghnu.github.io/) and worked closely with Prof. [Ning Lu](https://cee.mines.edu/project/lu-ning/).
 
 Awards and Honors
 ======
