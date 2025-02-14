@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I completed both my Master’s and Bachelor’s degrees in the College of Civil Engineering at Hunan University.
+- I completed both my Master’s and Bachelor’s degrees in the College of Civil Engineering at Hunan University. Currently, I am a PhD student at Penn State, and surpervised by Prof. [Ming Xiao](https://www.engr.psu.edu/xiao/index.html).
 - My research interests encompass fundamental soil physics and knowledge-guided machine learning methodologies, with a particular focus on Arctic permafrost degradation driven by global climate change.
 - For my Master's research, I was supervised by Prof. [Chao Zhang](https://chaozhanghnu.github.io/PI/) and worked closely with Prof. [Ning Lu](https://cee.mines.edu/project/lu-ning/).
 
