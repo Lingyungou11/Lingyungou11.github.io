@@ -34,4 +34,4 @@ properties of granite residual soil in the full suction range](https://link.spri
 
 ## Under Review Papers
 1. Yi, X., C. Zhang+, **L. Gou**#, Q. Huang, P. Zhou, and R. Chen. 2024. Synchrotron-Based small angle X-Ray scattering of clay hydration at high suction. Under Review.
-2. **Gou, L**#, M. Xiao, M. Hallissey, C. Park, M. Dogan, D. Nicolsky, A. Garland, and C. Wright. 2025. Failure Mechanisms of Permafrost Bluff: A Case Study in Utqiaġvik, Alaska. Under Review.
+2. **Gou, L**#, M. Xiao+, M. Hallissey, C. Park, M. Dogan, D. Nicolsky, A. Garland, and C. Wright. 2025. Failure Mechanisms of Permafrost Bluff: A Case Study in Utqiaġvik, Alaska. Under Review.
