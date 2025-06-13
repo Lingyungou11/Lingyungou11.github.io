@@ -35,4 +35,4 @@ properties of granite residual soil in the full suction range](https://link.spri
 
 ## Under Review Papers
 1. Yi, X., C. Zhang+, **L. Gou**#, Q. Huang, P. Zhou, and R. Chen. 2024. Synchrotron-Based small angle X-Ray scattering of clay hydration at high suction. Under Review.
-2. Ren, Y., **L. Gou**#, M. Xiao+, Z. Liu, and C. Shen. DMFS: Differentiable Modeling for Frozen Soil Thermodynamic Characteristics. Under Review.
+2. Ren, Y., **L. Gou**#, M. Xiao+, Z. Liu, and C. Shen. 2025. DMFS: Differentiable Modeling for Frozen Soil Thermodynamic Characteristics. Under Review.
