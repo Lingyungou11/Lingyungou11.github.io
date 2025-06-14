@@ -34,5 +34,7 @@ properties of granite residual soil in the full suction range](https://link.spri
 11. Hu, S., C. Zhang+#, Y. Dong, **L. Gou**, and R. Chen. 2025. Water vapor sorption isotherms of salt-affected soils. ***Canadian Geotechnical Journal***. Accepted.
 
 ## Under Review Papers
-1. Yi, X., C. Zhang+, **L. Gou**#, Q. Huang, P. Zhou, and R. Chen. 2024. Synchrotron-Based small angle X-Ray scattering of clay hydration at high suction. Under Review.
+1. **Gou, L.**, M. Xiao+#, T. Zhu, E. Martin, Z. Wang, G. Santos, D. Nicolsky, X. Ji. 2025. Physics-Informed Digital Twins for Predicting Arctic Permafrost Thermodynamics. Under Review.
 2. Ren, Y., **L. Gou**#, M. Xiao+, Z. Liu, and C. Shen. 2025. DMFS: Differentiable Modeling for Frozen Soil Thermodynamic Characteristics. Under Review.
+3. Yi, X., C. Zhang+, **L. Gou**#, Q. Huang, P. Zhou, and R. Chen. 2024. Synchrotron-Based small angle X-Ray scattering of clay hydration at high suction. Under Review.
+
