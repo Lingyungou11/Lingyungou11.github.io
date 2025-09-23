@@ -18,7 +18,7 @@ author_profile: true
 +Supervisor, #Corresponding
 
 ## Published Journal Papers
-1. **Gou, L**#, M. Xiao+, M. Hallissey, C. Park, M. Dogan, D. Nicolsky, A. Garland, and C. Wright. 2025. [Failure Mechanisms of Permafrost Bluff in Utqiaġvik, Alaska](https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-13950). **ASCE** ***Journal of Geotechnical and Geoenvironmental Engineering***. 151(11).
+1. **Gou, L**#, M. Xiao+, M. Hallissey, C. Park, M. Dogan, D. Nicolsky, A. Garland, and C. Wright. 2025. [Failure mechanisms of permafrost bluff in Utqiaġvik, Alaska](https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-13950). **ASCE** ***Journal of Geotechnical and Geoenvironmental Engineering***. 151(11).
 2. **Gou, L.**, N. Lu+, S. Hu, A. R. A. Calderon, and C. Zhang+#. 2024. [Suction stress of soil in slurry state](https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-12758?af=R). **ASCE** ***Journal of Geotechnical and Geoenvironmental Engineering***. 151(2).
 3. **Gou, L.**, C. Zhang+#, N. Lu+, and S. Hu. 2023. [A soil hydraulic conductivity equation incorporating adsorption and
 capillarity](https://doi.org/10.1061/JGGEFK.GTENG-11388). **ASCE** ***Journal of Geotechnical and Geoenvironmental Engineering***, 149(8).
