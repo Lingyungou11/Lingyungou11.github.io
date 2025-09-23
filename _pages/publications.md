@@ -18,7 +18,7 @@ author_profile: true
 +Supervisor, #Corresponding
 
 ## Published Journal Papers
-1. **Gou, L**#, M. Xiao+, M. Hallissey, C. Park, M. Dogan, D. Nicolsky, A. Garland, and C. Wright. 2025. Failure Mechanisms of Permafrost Bluff: A Case Study in Utqiaġvik, Alaska. **ASCE** ***Journal of Geotechnical and Geoenvironmental Engineering***. Accepted.
+1. **Gou, L**#, M. Xiao+, M. Hallissey, C. Park, M. Dogan, D. Nicolsky, A. Garland, and C. Wright. 2025. [Failure Mechanisms of Permafrost Bluff in Utqiaġvik, Alaska](https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-13950). **ASCE** ***Journal of Geotechnical and Geoenvironmental Engineering***. 151(11).
 2. **Gou, L.**, N. Lu+, S. Hu, A. R. A. Calderon, and C. Zhang+#. 2024. [Suction stress of soil in slurry state](https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-12758?af=R). **ASCE** ***Journal of Geotechnical and Geoenvironmental Engineering***. 151(2).
 3. **Gou, L.**, C. Zhang+#, N. Lu+, and S. Hu. 2023. [A soil hydraulic conductivity equation incorporating adsorption and
 capillarity](https://doi.org/10.1061/JGGEFK.GTENG-11388). **ASCE** ***Journal of Geotechnical and Geoenvironmental Engineering***, 149(8).
@@ -31,7 +31,7 @@ properties of granite residual soil in the full suction range](https://link.spri
 8. Lu, N.+#, **L. Gou**, C. Zhang+, A. R. A. Calderon, and A. Wayllace. 2023. [Closure to “Uniqueness of suction stress value at liquid limit of soil”](https://doi.org/10.1061/JGGEFK.GTENG-11798). **ASCE** ***Journal of Geotechnical and Geoenvironmental Engineering***, 149(11), 1-5.
 9. Yang, Y., C. Zhang+#, **L. Gou**, R. Chen, and Y. Dong. 2023. [Role of substrate roughness in soil desiccation cracking](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2023-0638). ***Canadian Geotechnical Journal***. 61.
 10. Zhang, C.+, L. Li,  S. Hu#, **L. Gou**, and R. Chen. 2024. [Physical origin of adsorption heat and its significance in the isotherm equation](https://www.sciencedirect.com/science/article/pii/S0017931023010591). ***International Journal of Heat and Mass Transfer***, 220, 124914.
-11. Hu, S., C. Zhang+#, Y. Dong, **L. Gou**, and R. Chen. 2025. Water vapor sorption isotherms of salt-affected soils. ***Canadian Geotechnical Journal***. Accepted.
+11. Hu, S., C. Zhang+#, Y. Dong, **L. Gou**, and R. Chen. 2025. [Water vapor sorption isotherms of salt-affected soils](https://cdnsciencepub.com/doi/10.1139/cgj-2024-0426). ***Canadian Geotechnical Journal***. 62.
 
 ## Under Review Papers
 1. **Gou, L.**, M. Xiao+#, T. Zhu, E. Martin, Z. Wang, G. Santos, D. Nicolsky, X. Ji. 2025. Physics-Informed Digital Twins for Predicting Arctic Permafrost Thermodynamics. Under Review.
