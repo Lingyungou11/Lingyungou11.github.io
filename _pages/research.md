@@ -10,7 +10,9 @@ Differentiable modeling (DM) provides a powerful paradigm for scientific computi
 
 Using this approach, we developed the [DMFS model](https://cdnsciencepub.com/doi/full/10.1139/cgj-2025-0364), the [δ-HT4P model](https://www.sciencedirect.com/science/article/pii/S0266352X26002387), and a [digital-twin framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JF008787) for permafrost prediction. Together, these studies demonstrate the potential of DM to integrate mechanistic process models, field observations, and scientific machine learning for cold-region geotechnical and geoscience applications.
 
-<img src="../images/delta HT4P.jpg" width="80%" height="80%">
+<p align="center">
+  <img src="../images/delta HT4P.jpg" width="80%" height="80%">
+</p>
 
 
 
