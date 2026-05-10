@@ -8,14 +8,6 @@ author_profile: true
 
 
 
-
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
----
-
 ## Theoretical Research in Free Energy Change of Soil Pore Water
 - [Proposed a thermodynamic framework for water potential of soil](https://doi.org/10.1029/2022WR032369)
 <img src="../images/1.jpg" width="80%" height="80%">
