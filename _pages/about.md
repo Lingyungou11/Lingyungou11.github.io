@@ -15,3 +15,5 @@ One direction of my work focuses on developing Scientific AI methods for cold-re
 In parallel, I also conduct fundamental research on frozen and unsaturated soils, with an emphasis on soil freezing processes, unfrozen water migration, frost heave, and soil-water interactions. Through these efforts, I aim to connect physical mechanisms at the soil-pore scale with predictive models for engineering and geoscience applications.
 
 Before joining UW–Madison, I worked as a research assistant at Penn State under the supervision of Prof. [Ming Xiao](https://www.engr.psu.edu/xiao/index.html). I received my Master’s and Bachelor’s degrees in Civil Engineering from Hunan University, where I was supervised by Prof. [Chao Zhang](https://chaozhanghnu.github.io/PI/) and worked closely with Prof. [Ning Lu](https://cee.mines.edu/project/lu-ning/).
+
+Outside of research, I enjoy playing pickleball and training at the gym. During work, I also enjoy exploring different kinds of coffee.
