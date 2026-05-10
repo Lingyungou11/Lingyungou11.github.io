@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Differentiable Modeling for Permafrost
+Differentiable modeling (DM) provides a powerful paradigm for scientific computing by embedding unknown constitutive relationships or model parameters directly into physical models. Through automatic differentiation (AD) or implicit function theory (IFT), model-observation misfit can be backpropagated through numerical solvers, enabling unknown physical relationships to be learned directly from observational data.
+
+Using this approach, we developed the [DMFS model](https://cdnsciencepub.com/doi/full/10.1139/cgj-2025-0364) the [δ-HT4P model](https://www.sciencedirect.com/science/article/pii/S0266352X26002387), and a [digital-twin framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JF008787) for permafrost prediction. Together, these studies demonstrate the potential of DM to integrate mechanistic process models, field observations, and scientific machine learning for cold-region geotechnical and geoscience applications.
+
+
 
 
 ## Theoretical Research in Free Energy Change of Soil Pore Water
