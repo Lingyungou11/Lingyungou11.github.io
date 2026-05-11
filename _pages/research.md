@@ -16,6 +16,6 @@ Using this approach, we developed the [DMFS model](https://cdnsciencepub.com/doi
 
 
 ## Water Potential Theory for Frozen Soils
-Water potential is a fundamental thermodynamic variable that describes changes in the free energy of pore water in frozen soils. Soil–water interactions reduce the free energy of pore water and consequently depress its freezing temperature, giving rise to the soil freezing characteristic curve (SFCC). Building on a molecular-scale thermodynamic framework for pore water, we developed a water-potential theory for frozen soils.
+Water potential is a fundamental thermodynamic variable that describes changes in the free energy of pore water in frozen soils. Soil–water interactions reduce the free energy of pore water and consequently depress its freezing temperature, giving rise to the soil freezing characteristic curve (SFCC). Building on a molecular-scale thermodynamic system for pore water, we developed a water-potential theory for frozen soils.
 
 Based on this theory, we clarified the physical origin of cryosuction in frozen soils and investigated the migration behavior of unfrozen water. By combining the cryosuction with the temperature-dependent hydraulic conductivity, we developed a simplified physical model for predicting frost heave. These studies provide a thermodynamic foundation for linking pore-scale soil–water interactions with macroscopic freezing, water migration, and deformation processes in frozen soils.
