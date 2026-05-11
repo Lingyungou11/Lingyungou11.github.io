@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## Selected Work
-1. Gou, L.*, and W. J. Likos. 2026. [δHT4P: A Differentiable Physical Modeling Framework for Thermal Evolution of
+1. Gou, L.\*, and W. J. Likos. 2026. [δHT4P: A Differentiable Physical Modeling Framework for Thermal Evolution of
 Permafrost](https://www.sciencedirect.com/science/article/pii/S0266352X26002387). *Computers and Geotechnics*. 196.
 2. Gou, L., W. J. Likos*, and N. Lu. 2026. Water Potential in Frozen Soil. *Journal of Geotechnical and
 Geoenvironmental Engineering*.
