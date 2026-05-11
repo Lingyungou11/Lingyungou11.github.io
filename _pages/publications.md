@@ -19,7 +19,7 @@ author_profile: true
 1. Gou, L.\*, and W. J. Likos. 2026. [δHT4P: A Differentiable Physical Modeling Framework for Thermal Evolution of
 Permafrost](https://www.sciencedirect.com/science/article/pii/S0266352X26002387). *Computers and Geotechnics*. 196.
 2. Gou, L., W. J. Likos\*, and N. Lu. 2026. Water Potential in Frozen Soil. *Journal of Geotechnical and
-Geoenvironmental Engineering*.
+Geoenvironmental Engineering*. In press.
 3. Gou, L., M. Xiao\*, T. Zhu, E. Martin, Z. Wang, G. Santos, D. Nicolsky, and X. Ji. 2026. [Physics-Informed Digital
 Twin for Predicting Permafrost Thermodynamic Characteristics Under an Embankment Road in Utqiaġvik, Alaska](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JF008787). *Journal of Geophysical Research: Earth Surface*, 131(4).
 4. Ren Y., L. Gou\*, M. Xiao, Z. Liu and C. Shen. 2026. [DMFS: Differentiable Modeling for Frozen Soil
