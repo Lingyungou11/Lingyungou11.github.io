@@ -22,3 +22,8 @@ author_profile: true
   <img src="../images/AGU 2025.jpg" width="70%">
 </p>
 
+- **2024** — I attended the AGU 2024 Annual Meeting and presented our work on [a soil hydraulic conductivity model incorporating capillarity and adsorption](https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-11388).
+<p align="center">
+  <img src="../images/AGU 2024.jpg" width="70%">
+</p>
+
