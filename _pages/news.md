@@ -16,3 +16,6 @@ author_profile: true
 <p align="center">
   <img src="../images/CGJ spotlight.jpg" width="60%">
 </p>
+
+- **2025** — I attended the AGU 2025 Annual Meeting and presented our work on [failure mechanisms of permafrost bluffs in Alaska](https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-13950) and [differentiable modeling for permafrost](https://cdnsciencepub.com/doi/10.1139/cgj-2025-0364).
+
