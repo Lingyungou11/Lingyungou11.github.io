@@ -33,5 +33,4 @@ Properties of Granite Residual Soil in the Full Suction Range](https://link.spri
 9. Gou, L., C. Zhang\*, N. Lu+, and S. Hu. 2023. [A Soil Hydraulic Conductivity Equation Incorporating Adsorption and
 Capillarity](https://doi.org/10.1061/JGGEFK.GTENG-11388). *Journal of Geotechnical and Geoenvironmental Engineering*, 149(8).
 10. Gou, L., C. Zhang\*, S. Hu, R. Chen, and Y. Dong. 2023. [Semi-Analytical Solutions for Soil Consolidation Induced by Drying](https://doi.org/10.1007/s11440-022-01623-4). *Acta Geotechnica*, 18(2), 739-755.
-11. Yang, Y., C. Zhang\*, L. Gou, R. Chen, and Y. Dong. 2023. [Role of Substrate Roughness in Soil Desiccation Cracking](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2023-0638). *Canadian Geotechnical Journal*. 61.
-12. Zhang, C., L. Gou, S. Hu\*, and N. Lu. 2022. [A Thermodynamic Formulation of Water Potential in Soil](https://doi.org/10.1029/2022WR032369). *Water Resources Research*, 58(9), 1-20.
+11. Zhang, C., L. Gou, S. Hu\*, and N. Lu. 2022. [A Thermodynamic Formulation of Water Potential in Soil](https://doi.org/10.1029/2022WR032369). *Water Resources Research*, 58(9), 1-20.
