@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in Civil and Environmental Engineering at the University of Wisconsin–Madison, advised by Prof. [William Likos](https://engineering.wisc.edu/directory/profile/william-likos/). My research lies at the intersection of cold-region geotechnics, soil physics, and scientific machine learning.
 
-One direction of my work focuses on developing Scientific AI methods for cold-region research, including differentiable modeling (DM), neural operators, and digital twins to predict frozen-ground behavior. I am particularly interested in using these tools to improve the monitoring, interpretation, and forecasting of cold-region soils and infrastructure in a changing climate.
+One direction of my work focuses on developing Scientific AI methods for cold-region research, including differentiable modeling (DM), neural operators, and digital twins to predict frozen-ground behavior. I am particularly interested in using these tools to improve the monitoring, interpretation, and forecasting of cold-region soils and infrastructure in a changing climate, as well as to support the prediction and mitigation of natural hazards in cold regions.
 
 In parallel, I also conduct fundamental research on frozen and unsaturated soils, with an emphasis on soil freezing processes, unfrozen water migration, frost heave, and soil-water interactions. Through these efforts, I aim to connect physical mechanisms at the soil-pore scale with predictive models for engineering and geoscience applications.
 
