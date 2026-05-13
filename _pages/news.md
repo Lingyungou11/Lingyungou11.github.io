@@ -7,7 +7,7 @@ author_profile: true
 
 ## News
 
-- **2026** — Our work on [digital twins for Arctic permafrost beneath roads](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JF008787) was highlighted by [AGU Eos](https://eos.org/editor-highlights/a-digital-twin-for-arctic-permafrost-beneath-roads).
+- **2026** — Our research article on [physics-informed digital twins for Arctic permafrost beneath roads](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JF008787) was selected as an AGU Editor’s Highlight and featured on [Eos](https://eos.org/editor-highlights/a-digital-twin-for-arctic-permafrost-beneath-roads).
 <p align="center">
   <img src="../images/AGU Eos.jpg" width="70%">
 </p>
