@@ -8,9 +8,7 @@ author_profile: true
 ## News
 - **2026** - Presented our latest research, *“Origin, General Definition, and Implications of Cryosuction in Frozen Soil”*, at the Engineering Mechanics Institute (EMI) 2026 Conference held at the University of Colorado Boulder. Received the **Runner-Up Award** in the Poromechanics Student Paper Competition.
 <p align="center">
-  <img src="../images/EMI_2026_01.jpg" height="200">
-  <img src="../images/EMI_2026_02.jpg" height="200">
-  <img src="../images/EMI_2026_03.jpg" height="200">
+  <img src="../images/EMI_2026_04.jpg" width="80%">
 </p>
 
 - **2026** — Our research article on [physics-informed digital twins for Arctic permafrost beneath roads](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JF008787) was selected as an AGU Editor’s Highlight and featured on [Eos](https://eos.org/editor-highlights/a-digital-twin-for-arctic-permafrost-beneath-roads).
