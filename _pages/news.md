@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## News
-- **2026** - Presented our latest research, *“Origin, General Definition, and Implications of Cryosuction in Frozen Soil”*, at the Engineering Mechanics Institute (EMI) 2026 Conference held at the University of Colorado Boulder. Received the **Runner-Up Award** in the Poromechanics Committee Student Presentation Competition.
+- **2026** - Presented our latest research, *“Origin, General Definition, and Implications of Cryosuction in Frozen Soil”*, at the Engineering Mechanics Institute (EMI) 2026 Conference held at the University of Colorado Boulder. Received the **Runner-Up Award** in the Poromechanics Student Paper Competition.
 <p align="center">
   <img src="../images/EMI_2026_01.jpg" height="200">
   <img src="../images/EMI_2026_02.jpg" height="200">
