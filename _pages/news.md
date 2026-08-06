@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## News
+- **2026** — Our work on [δHT4P model](https://www.sciencedirect.com/science/article/pii/S0266352X26002387) was featured in the [Computers and Geotechnics Spotlight](https://www.linkedin.com/feed/update/urn:li:share:7490769396810911744/).
+<p align="center">
+  <img src="../images/deltaHT4P.jpg" width="70%">
+</p>
+
 - **2026** - Presented our latest research, *“Origin, General Definition, and Implications of Cryosuction in Frozen Soil”*, at the Engineering Mechanics Institute (EMI) 2026 Conference held at the University of Colorado Boulder. Received the **Runner-Up Award** in the [Poromechanics Student Paper Competition](https://www.asce.org/communities/institutes-and-technical-groups/engineering-mechanics-institute/news/2026-emi-student-competition-award-winners).
 <p align="center">
   <img src="../images/EMI_2026_04.jpg" width="80%">
