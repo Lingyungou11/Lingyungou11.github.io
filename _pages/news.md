@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## News
+- **2026** — Our recent article was published in [GeoStrata magazine](https://www.readgeo.com/geostrata/october_november_2026/MobilePagedArticle.action?articleId=2150426#articleId2150426).
+<p align="center">
+  <img src="../images/GeoStrata.jpg" width="40%">
+</p>
+
 - **2026** — Our work on [δHT4P model](https://www.sciencedirect.com/science/article/pii/S0266352X26002387) was featured in the [Computers and Geotechnics Spotlight](https://www.linkedin.com/feed/update/urn:li:share:7490769396810911744/).
 <p align="center">
   <img src="../images/deltaHT4P.jpg" width="40%">
