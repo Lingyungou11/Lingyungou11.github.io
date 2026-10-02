@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## News
-- **2026** — Our recent article was published in [GeoStrata magazine](https://www.readgeo.com/geostrata/october_november_2026/MobilePagedArticle.action?articleId=2150426#articleId2150426).
+- **2026** — Our recent work on permafrost bluff failure was featured in [GeoStrata magazine](https://www.readgeo.com/geostrata/october_november_2026/MobilePagedArticle.action?articleId=2150426#articleId2150426), building on our previously published [modeling study](https://ascelibrary.org/doi/10.1061/JGGEFK.GTENG-13950).
 <p align="center">
   <img src="../images/GeoStrata.jpg" width="40%">
 </p>
