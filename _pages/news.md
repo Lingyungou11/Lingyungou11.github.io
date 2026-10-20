@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## News
-- **October 19, 2026** — Attended an inspiring lecture by Prof. Chaopeng Shen (Penn State) at UW–Madison. It was a great opportunity to learn about recent advances in AI for Geoscience and exchange research ideas.
+- **October 19, 2026** — Attended an inspiring lecture by Prof. [Chaopeng Shen](https://water.engr.psu.edu/shen/index.html) (Penn State) at UW–Madison. It was a great opportunity to learn about recent advances in AI for Geoscience and exchange research ideas.
 <p align="center">
   <img src="../images/With Chaopeng.jpg" width="40%">
 </p>
