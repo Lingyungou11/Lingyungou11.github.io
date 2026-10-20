@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## News
+- **October 19, 2026** — Attended an inspiring lecture by Prof. Chaopeng Shen (Penn State) at UW–Madison. It was a great opportunity to learn about recent advances in AI for Geoscience and exchange research ideas.
+<p align="center">
+  <img src="../images/With Chaopeng.jpg" width="40%">
+</p>
+
 - **2026** — Our recent work on permafrost bluff failure was featured in [GeoStrata magazine](https://www.readgeo.com/geostrata/october_november_2026/MobilePagedArticle.action?articleId=2150426#articleId2150426), building on our previously published [modeling study](https://ascelibrary.org/doi/10.1061/JGGEFK.GTENG-13950).
 <p align="center">
   <img src="../images/GeoStrata.jpg" width="40%">
