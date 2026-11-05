@@ -16,7 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## Selected Work
-1. Gou, L., W. J. Likos\*, Z. Wang, and N. Lu. 2026. [Origin, General Definition, and Implications of Cryosuction in Frozen Soil](https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-15318). *Journal of Geotechnical and Geoenvironmental Engineering*. 153(1).
+1. Gou, L.\*, W. J. Likos, Z. Wang, and N. Lu. 2027. A Cryosuction-Based Framework for Frost Heave Analysis in Frozen Ground. *Journal of Engineering Mechanics*. Accepted.
+1. Gou, L., W. J. Likos\*, Z. Wang, and N. Lu. 2027. [Origin, General Definition, and Implications of Cryosuction in Frozen Soil](https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-15318). *Journal of Geotechnical and Geoenvironmental Engineering*. 153(1).
 2. Gou, L.\*, and W. J. Likos. 2026. [δHT4P: A Differentiable Physical Modeling Framework for Thermal Evolution of
 Permafrost](https://www.sciencedirect.com/science/article/pii/S0266352X26002387). *Computers and Geotechnics*. 196.
 3. Gou, L., W. J. Likos\*, and N. Lu. 2026. [Water Potential in Frozen Soil](https://ascelibrary.org/doi/10.1061/JGGEFK.GTENG-15116). *Journal of Geotechnical and
